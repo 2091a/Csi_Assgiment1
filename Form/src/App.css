@@ -1,0 +1,10 @@
+.blink {
+  animation: blink-border 1s steps(5, start) infinite;
+  border: 2px solid red;
+}
+
+@keyframes blink-border {
+  50% {
+    border-color: transparent;
+  }
+}

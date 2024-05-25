@@ -1,0 +1,6 @@
+To Run the project:-
+Make sure your inside Form directory 
+→Run npm install commend inside form directory
+→Now run commend npm run dev inside same directory 
+→Past the url on your browser 
+→The Project is runing on your localHost now 
